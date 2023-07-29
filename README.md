@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Rusch</h1>
 <h3 align="center">A senior at Creighton University. I'm majoring in Computer Science (both the Digital Development and Computing Sciences tracks) and minoring in Graphic Design.</h3>
 
-- 📫 How to reach me **ThomasRusch@creighton.edu**
+- 📫 How to reach me **T.Rusch@outlook.com**
 - 😄 Pronouns: He/Him/Any
 
 <h3 align="left">Languages and Tools:</h3>
